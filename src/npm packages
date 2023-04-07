@@ -1,0 +1,7 @@
+npm install react-leaflet-draw leaflet-draw ///for adding shapess tools in mape 
+npm install react react-dom leaflet ///this for install the react leaflet map
+npm install react-leaflet
+npm install react-leaflet-easyprint //for map download
+https://opencagedata.com/dashboard#geocoding
+
+
